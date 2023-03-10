@@ -1,0 +1,7 @@
+h1 {
+  /* 글자색상을 보라색으로 만들어요! */
+  color: blueviolet;
+  font-size: 50px;
+  font-weight: 900;
+  border: 4px solid;
+}
